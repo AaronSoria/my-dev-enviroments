@@ -1,9 +1,11 @@
 #A dev enviroment with node, vue and tailwindcss
 
 Now, let’s create a new vue.js app using vue create <app-name>
+  
 $ vue create <app-name>
 
 Now, let's install the dependencies required to work with Tailwind.
+  
 $ npm install tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9
 
 After run docker image you should run 
